@@ -7,10 +7,38 @@
     "peso": "Dezenas de quilos"
   },
   {
+    "nome_popular": "Peixe telescópio",
+    "nome_cientifico": "Carassius auratus",
+    "habitat": "Água doce",
+    "tamanho": "10 cm a 20 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Guppy",
+    "nome_cientifico": "Poecilia reticulata",
+    "habitat": "Água doce",
+    "tamanho": "2,5 cm a 6,5 cm",
+    "peso": "Não informado"
+  },
+  {
     "nome_popular": "Peixe-palhaço",
     "nome_cientifico": "Amphiprion",
     "habitat": "Marinho",
     "tamanho": "7 cm a 15 cm",
     "peso": "50 g a 150 g"
+  },
+  {
+    "nome_popular": "Acará-bandeira",
+    "nome_cientifico": "Pterophyllum scalare",
+    "habitat": "Água doce (Bacia Amazônica)",
+    "tamanho": "10 cm a 15 cm",
+    "peso": "Não informado"
+  },
+  {
+    "nome_popular": "Peixe-leão",
+    "nome_cientifico": "Pterois",
+    "habitat": "Marinho",
+    "tamanho": "25 cm a 35 cm",
+    "peso": "Não informado"
   }
 ]
