@@ -1,6 +1,6 @@
 # CatalogodeEsp-cies
 Catálogo de características de espécies de peixes
-Nomes : Douglas Henrique da Silva Caetano, Yasmin Bezerra da Silva e Guilherme Vitor Gomes. 
+Nomes : Douglas Henrique da Silva Caetano, Iasmin Bezerra da Silva e Guilherme Vitor Gomes. 
 Data de Entrega: 19/11/2026
 
 Descrição do projeto: 
@@ -16,4 +16,4 @@ Bibliotecas utilizadas: streamlit, json, os
 Divisão das responsabilidades:
 - Douglas : Desenvolvimento em Python, estruturação dos dados e deploy no Streamlit.
 - Gilherme : Desenvolvimento e pesquisa de espécies
-- Yasmin : Desenvolvimento e pesquisa de espécies
+- Iasmin : Desenvolvimento e pesquisa de espécies.
