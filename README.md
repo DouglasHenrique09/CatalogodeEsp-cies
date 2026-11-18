@@ -14,6 +14,6 @@ Instruções de execução:
 Bibliotecas utilizadas: streamlit, json, os
 
 Divisão das responsabilidades:
-- Douglas : Desenvolvimento em Python, estruturação dos dados e deploy no Streamlit.
-- Gilherme : Desenvolvimento e pesquisa de espécies
-- Iasmin : Desenvolvimento e pesquisa de espécies.
+- Douglas : Desenvolvimento em Python, estruturação dos dados e pesquisa de espécies.
+- Gilherme : Desenvolvimento em Python,estruturação dos dados e pesquisa de espécies.
+- Iasmin : Desenvolvimento em Python,estruturação dos dados e  pesquisa de espécies.
