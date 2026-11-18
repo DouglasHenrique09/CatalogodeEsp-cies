@@ -1,6 +1,6 @@
 # CatalogodeEsp-cies
 Catálogo de características de espécies de peixes
-Nomes : Douglas Henrique da Silva Caetano, Iasmin Bezerra da Silva e Guilherme Vitor Gomes. 
+Nomes : Douglas Henrique da Silva Caetano, Iasmin Bezerra da Silva e Guilherme Vitor Gomes Vieira Gusmão.
 Data de Entrega: 19/11/2026
 
 Descrição do projeto: 
